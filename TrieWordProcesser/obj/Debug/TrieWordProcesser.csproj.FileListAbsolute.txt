@@ -1,0 +1,8 @@
+H:\Projects\TrieWordProcesser\TrieWordProcesser\bin\Debug\TrieWordProcesser.exe.config
+H:\Projects\TrieWordProcesser\TrieWordProcesser\bin\Debug\TrieWordProcesser.exe
+H:\Projects\TrieWordProcesser\TrieWordProcesser\bin\Debug\TrieWordProcesser.pdb
+H:\Projects\TrieWordProcesser\TrieWordProcesser\obj\Debug\TrieWordProcesser.exe
+H:\Projects\TrieWordProcesser\TrieWordProcesser\obj\Debug\TrieWordProcesser.pdb
+H:\Projects\TrieWordProcesser\TrieWordProcesser\bin\Debug\Data\testing.txt
+H:\Projects\TrieWordProcesser\TrieWordProcesser\bin\Debug\Data\wordlist.txt
+H:\Projects\TrieWordProcesser\TrieWordProcesser\obj\Debug\TrieWordProcesser.csprojResolveAssemblyReference.cache
